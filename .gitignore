@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+env/
+
+# Large files
+*.pdf
+*.npy
+*.pt
+*.bin
+*.safetensors
+
+# Generated data
+processed/
+embeddings/
+vector_store/
+outputs/
+
+# System
+.DS_Store
